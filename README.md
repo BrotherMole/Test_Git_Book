@@ -1,3 +1,3 @@
-# Redirect Test - Old Page
+# Redirect Test
 
-This is an old page for redirect test
+This is to test redirect
