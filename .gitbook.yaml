@@ -1,4 +1,4 @@
 root: ./
 
 redirects:  
-    test-page-by-brother-mole/here-is-the-old2-page: here-is-the-new-page.md
+    here-is-the-old2-page: here-is-the-new-page.md
