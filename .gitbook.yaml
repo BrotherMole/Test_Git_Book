@@ -1,2 +1,3 @@
+root: ./
 redirects:  
    here-is-the-old-page: here-is-the-new-page.md
